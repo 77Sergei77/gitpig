@@ -1,0 +1,21 @@
+.title {
+  color: white;
+  font-size: 3vw;
+}
+.himg {
+  width: 50vw;
+  height: 30vw;
+  border-radius: 4vw;
+  margin: auto 0;
+}
+.cardh {
+  margin-top: 6vw;
+  margin-bottom: 6vw;
+  position: relative;
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 30vw;
+}

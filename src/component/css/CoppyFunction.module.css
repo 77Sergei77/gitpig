@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Charis+SIL&family=Inter&family=Open+Sans:ital,wght@0,500;1,300&display=swap");
+
+.card2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 10vw;
+}
+.card {
+  position: absolute;
+  margin-top: 5vw;
+  width: 52vw;
+  height: 41vw;
+  background-color: rgba(226, 199, 101, 1);
+  border-radius: 1vw;
+  border: 3px solid rgba(255, 62, 0, 1);
+  transition: height 450ms ease-in-out;
+  overflow: clip;
+}
+.id {
+  margin-left: 1vw;
+  border-radius: 50%;
+  width: 3.5vw;
+  height: 3.5vw;
+  background-color: rgba(255, 161, 74, 1);
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.purpose {
+  width: 15vw;
+  height: 2vw;
+  font-size: 1.5vw;
+  margin-left: 1vw;
+}
+.text {
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.8vw;
+}
+.card3 {
+  height: 4.2vw;
+  display: flex;
+  align-items: center;
+}
+.card4 {
+  height: 35vw;
+  width: 50vw;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 1vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.card5 {
+  font-family: cursive;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 50vw;
+  height: 10px;
+  align-items: center;
+}
+.reveal {
+  position: relative;
+  top: 5.4vw;
+  left: 28.5vw;
+  width: auto;
+  height: 4vw;
+}
+.cardss {
+  position: absolute;
+  margin-top: 5vw;
+  width: 52vw;
+  height: 4.2vw;
+  background-color: rgba(226, 199, 101, 1);
+  border-radius: 1vw;
+  border: 3px solid rgba(255, 62, 0, 1);
+  transition: height 450ms ease-in-out;
+  overflow: clip;
+}
+.text_pod {
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5vw;
+  color: rgba(71, 71, 71, 1);
+  width: 45vw;
+  margin-left: 22.5vw;
+  position: relative;
+  z-index: -1;
+  top: 5vw;
+  margin: 5vw auto;
+  padding-bottom: 20vw;
+}
+.border_text {
+  padding-bottom: 3.5vw;
+  border-bottom: 2px solid rgba(71, 71, 71, 1);
+}
+.cardH{
+  height: 100px;
+}

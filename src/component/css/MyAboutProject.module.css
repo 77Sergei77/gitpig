@@ -1,0 +1,14 @@
+.title {
+    font-size: 2vw;
+    padding-top: 20%;
+    text-align: center;
+}
+
+.p1 {
+    text-align: start;
+    font-size: 1.3vw;
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 2%;
+}

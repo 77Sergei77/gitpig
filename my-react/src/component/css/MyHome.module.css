@@ -1,0 +1,31 @@
+.cardHeard {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  width: 55%;
+  padding-top: 0.7%;
+}
+.cardd {
+  width: 25%;
+  border-radius: 30px;
+  border: 2px solid #474747;
+  background: rgba(255, 161, 74, 1);
+    display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.text {
+  width: auto;
+  height: 100%;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.5vw;
+
+
+  font-weight: 400;
+}
+.card6 {
+  margin-top: 20%;
+  height: 130vw;
+}

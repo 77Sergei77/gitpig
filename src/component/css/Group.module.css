@@ -1,0 +1,32 @@
+.group1 {
+  background-color: white;
+  border: 0.1vw solid black;
+  border-radius: 2.1vw;
+  width: 60vw;
+  height: 20vw;
+  margin: 0 auto;
+  font-size: 1.8vw;
+  margin-bottom: 20vw;
+}
+.img1 {
+  width: 55vw;
+  margin-left: 3vw;
+  margin-top: -3.5vw;
+}
+.img2 {
+  width: 55vw;
+  margin-left: 3vw;
+}
+.text1 {
+  margin-left: 1vw;
+}
+.group2 {
+  background-color: white;
+  border: 0.1vw solid black;
+  border-radius: 2.1vw;
+  width: 60vw;
+  height: 58vw;
+  margin: 0 auto;
+  font-size: 1.8vw;
+  margin-bottom: 20vw;
+}

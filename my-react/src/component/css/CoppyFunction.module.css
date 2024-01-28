@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Charis+SIL&family=Inter&family=Open+Sans:ital,wght@0,500;1,300&display=swap");
+
+.card2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+.card {
+  position: absolute;
+  margin-top: 100px;
+  width: 1000px;
+  height: 810px;
+  background-color: rgba(226, 199, 101, 1);
+  border-radius: 20px;
+  border: 3px solid rgba(255, 62, 0, 1);
+  transition: height 450ms ease-in-out;
+  overflow: clip;
+}
+.id {
+  margin-left: 20px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  background-color: rgba(255, 161, 74, 1);
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 40px;
+  text-align: center;
+}
+.purpose {
+  width: 300px;
+  height: 40px;
+  font-size: 25px;
+  margin-left: 15px;
+}
+.text {
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+}
+.card3 {
+  height: 82px;
+  display: flex;
+  align-items: center;
+}
+.card4 {
+  height: 680px;
+  width: 970px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 20px;
+  margin: 0 auto;
+}
+.card5 {
+  font-family: cursive;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 900px;
+  margin: 0 auto;
+}
+.reveal {
+  position: relative;
+  top: 108px;
+  left: 550px;
+}
+.cardss {
+  position: absolute;
+  margin-top: 100px;
+  width: 1000px;
+  height: 82px;
+  background-color: rgba(226, 199, 101, 1);
+  border-radius: 20px;
+  border: 3px solid rgba(255, 62, 0, 1);
+  transition: height 450ms ease-in-out;
+  overflow: clip;
+}
+.text_pod {
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  color: rgba(71, 71, 71, 1);
+  width: 900px;
+  margin-left: 450px;
+  position: relative;
+  z-index: -1;
+  top: 100px;
+  margin: 100px auto;
+  padding-bottom: 300px;
+}
+.border_text {
+  padding-bottom: 75px;
+  border-bottom: 2px solid rgba(71, 71, 71, 1);
+}

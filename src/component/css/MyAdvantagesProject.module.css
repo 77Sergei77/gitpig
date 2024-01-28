@@ -1,0 +1,110 @@
+.money {
+  height: 8vw;
+  width: auto;
+}
+.diograma {
+  height: 8vw;
+  width: auto;
+  align-self: flex-start;
+}
+.watch {
+  height: 8vw;
+  width: auto;
+}
+.card8 {
+  background-color: rgba(32, 32, 32, 1);
+  height: 40vw;
+  width: 55%;
+  margin: 0 auto;
+  margin-top: 30vw;
+  transition: height 450ms ease-in-out;
+  border-radius: 3vw;
+  box-shadow: 0 36px 42px;
+  overflow: clip;
+}
+.card8_1 {
+  background-color: rgba(32, 32, 32, 1);
+  height: 16vw;
+  width: 55%;
+  margin: 0 auto;
+  margin-top: 30vw;
+  transition: height 450ms ease-in-out;
+border-radius: 3vw;
+  box-shadow: 0 36px 42px;
+  overflow: clip;
+}
+.plus {
+  font-size: 2.5vw;
+  color: rgba(255, 142, 38, 1);
+
+  margin: 0;
+}
+.imgPlus {
+  width: auto;
+  height: 8vw;
+}
+.cardPlus {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 2.5%;
+}
+.card9 {
+  height: 12vw;
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+.card10 {
+  display: flex;
+  justify-content: center;
+}
+.card11 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+}
+.plus1 {
+  font-size: 1.5vw;
+  color: rgba(255, 142, 38, 1);
+  text-align: center;
+  width: 410px;
+}
+.block-enter {
+  opacity: 0;
+}
+
+.block-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.block-exit {
+  opacity: 1;
+}
+
+.block-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
+}
+.imgUp {
+  width: 3vw;
+  height: auto;
+}
+.yes {
+  display: block;
+  margin: 0 auto;
+  width: 3vw;
+  height: auto;
+}
+.no {
+  display: none;
+
+  margin: 0 auto;
+  width: 3vw;
+  height: auto;
+}

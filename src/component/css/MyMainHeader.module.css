@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Charis+SIL&family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Charis+SIL&family=Inter&family=Open+Sans:ital,wght@0,500;1,300&display=swap");
+body {
+  margin: 0;
+  background: url("../../img/фон.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 55vw;
+  font-family: "Anton", sans-serif;
+  background-color: rgba(240, 240, 240, 1);
+}
+.header {
+  height: 3.7vw;
+  background-color: rgba(226, 199, 101, 1);
+}
+.img1 {
+  margin-left: 1%;
+  width: auto;
+  height: 3.5vw;
+  position: absolute;
+  align-items: center;
+}
+.cardIcone{
+  height: 3.7vw;
+  display: flex;
+  align-items: center;
+}
+.cardText {
+  margin-left: 3%;
+  height: 3.7vw;
+  width: 20%;
+  position: absolute;
+  display: flex;
+  align-items: center;
+
+}
+.card {
+  position: absolute;
+  height: 3.7vw;
+  display: flex;
+  align-items: center;
+  width: 40vw;
+}
+.p {
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5vw;
+  margin-left: 10%;
+}
+
+.a {
+  text-decoration: none;
+  font-size: 21px;
+  color: black;
+}

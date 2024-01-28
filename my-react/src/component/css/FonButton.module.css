@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Charis+SIL&family=Inter&family=Open+Sans:ital,wght@0,500;1,300&display=swap");
+.headerButton {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  height: 70px;
+  background-color: rgba(226, 199, 101, 1);
+}
+.card {
+  background-image: url("../../img/Ауфф2.png");
+  height: 1080px;
+}
+.text {
+  margin: 0;
+  font-size: 96px;
+  color: rgb(184, 184, 184);
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  font-family: "Charis SIL", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  padding-top: 300px;
+}
